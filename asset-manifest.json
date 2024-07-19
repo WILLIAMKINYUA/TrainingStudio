@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TrainingStudio/static/css/main.a013aeaa.css",
+    "main.js": "/TrainingStudio/static/js/main.59c2b9b6.js",
+    "static/media/video.mp4": "/TrainingStudio/static/media/video.8f981283f78b1d188a49.mp4",
+    "static/media/Second Classes.jpg": "/TrainingStudio/static/media/Second Classes.c10c044d46c7318cb0ab.jpg",
+    "static/media/First Classes.jpg": "/TrainingStudio/static/media/First Classes.cc8c47f31e8de4bd167a.jpg",
+    "static/media/Third Classes.jpg": "/TrainingStudio/static/media/Third Classes.1056394cc13eeeb5cdfe.jpg",
+    "static/media/Four Classes.jpg": "/TrainingStudio/static/media/Four Classes.78b94e36bb925bc222e6.jpg",
+    "static/media/power.jpg": "/TrainingStudio/static/media/power.515f1d0055b7e0840611.jpg",
+    "static/media/strength.jpg": "/TrainingStudio/static/media/strength.3b7f0d32671c89f55038.jpg",
+    "static/media/muscle.jpg": "/TrainingStudio/static/media/muscle.78c8d5b9d88124c29e6f.jpg",
+    "index.html": "/TrainingStudio/index.html",
+    "main.a013aeaa.css.map": "/TrainingStudio/static/css/main.a013aeaa.css.map",
+    "main.59c2b9b6.js.map": "/TrainingStudio/static/js/main.59c2b9b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a013aeaa.css",
+    "static/js/main.59c2b9b6.js"
+  ]
+}
